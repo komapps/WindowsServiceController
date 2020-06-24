@@ -1,0 +1,9 @@
+C:\Users\komdil\source\repos\WindowsServiceController\WindowsServiceController\bin\Debug\WindowsServiceController.exe.config
+C:\Users\komdil\source\repos\WindowsServiceController\WindowsServiceController\bin\Debug\WindowsServiceController.exe
+C:\Users\komdil\source\repos\WindowsServiceController\WindowsServiceController\bin\Debug\WindowsServiceController.pdb
+C:\Users\komdil\source\repos\WindowsServiceController\WindowsServiceController\obj\Debug\WindowsServiceController.csprojAssemblyReference.cache
+C:\Users\komdil\source\repos\WindowsServiceController\WindowsServiceController\obj\Debug\WindowsServiceController.Form1.resources
+C:\Users\komdil\source\repos\WindowsServiceController\WindowsServiceController\obj\Debug\WindowsServiceController.Properties.Resources.resources
+C:\Users\komdil\source\repos\WindowsServiceController\WindowsServiceController\obj\Debug\WindowsServiceController.csproj.GenerateResource.cache
+C:\Users\komdil\source\repos\WindowsServiceController\WindowsServiceController\obj\Debug\WindowsServiceController.exe
+C:\Users\komdil\source\repos\WindowsServiceController\WindowsServiceController\obj\Debug\WindowsServiceController.pdb
